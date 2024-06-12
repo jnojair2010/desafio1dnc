@@ -59,8 +59,8 @@
     text-align: justify;
 }
 #imagem-portifolio{
-    width: 510px;
-    height: 605px;
+    width: 460px;
+    height: 550px;
     margin:20px 20px auto auto;
 }
 #formulario{
@@ -96,4 +96,11 @@ form{
     background-color: #C07212;
     font-size: 23px;
     color: #ffffff;
+    cursor: pointer;
+}
+#btn-form:hover{
+    background-color: #875314;
+    transform: translateY(-10px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 10px 15px #d4dde179;
 }
