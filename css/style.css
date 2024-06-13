@@ -58,10 +58,19 @@
     margin: auto auto auto 40px;
     text-align: justify;
 }
+#informativo-imagem:hover{
+    transition-duration:6.0s;
+}
 #imagem-portifolio{
     width: 510px;
     height: 605px;
-    margin:20px 20px auto auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+    float:left;
+}
+#imagem-portifolio:hover{
+    transition-duration:6.0s;
 }
 #formulario{
 width: 100%;
