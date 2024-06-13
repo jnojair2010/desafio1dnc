@@ -17,7 +17,15 @@
 ![image](https://github.com/jnojair2010/desafio1dnc/assets/19231998/c69869d6-ab61-4274-adee-b857262b01b6)
 ![image](https://github.com/jnojair2010/desafio1dnc/assets/19231998/f66f55b9-49a6-4916-9681-9b3a2c439b86)
 
+<h3>Estrutura do projeto</h3>
+<h4>tecnoplogia utilizada</h4>
+<ul>
+  <li>![image](https://github.com/jnojair2010/desafio1dnc/assets/19231998/16185d23-5f87-43d4-b391-19e0f35d787d)</li>
+  <li>![image](https://github.com/jnojair2010/desafio1dnc/assets/19231998/2a09bc4f-b86a-4dcd-9a6f-8cedc247fde8)
+</li>
+</ul>
 
+<h4>Ide de Desenvolvimento</h4>
 
 
 
