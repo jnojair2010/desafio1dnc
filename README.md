@@ -12,6 +12,8 @@
 <h3>Descrição</h3>
 <p>Projeto landing page criando para divulgar proposta de arquitetura, este projeto é o primeiro na dnc, desenvolvido com html, css e javascript </p>
 <h3>Interface</h3>
+(https://github.com/jnojair2010/desafio1dnc/assets/19231998/79fe0a72-6d5d-461c-b501-e959be1c5e12)
+
 
 
 hospedagem do desafio: https://ubiquitous-malasada-ddb319.netlify.app/ <br>
