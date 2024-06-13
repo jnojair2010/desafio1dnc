@@ -3,8 +3,15 @@
 
 <h3>índice</h3>
 <ul>
-<a href="#descricao"> <li>descrição</li></a>
+<a href="#descricao"> <li>Descrição</li></a>
+<a href="#descricao"> <li>Interfaces</li></a>
+<a href="#descricao"> <li>Estrutura do projeto</li></a>
+<a href="#descricao"> <li>Acesso</li></a>
 </ul>
+
+<h3>Descrição</h3>
+<p>Projeto landing page criando para divulgar proposta de arquitetura, este projeto é o primeiro na dnc, desenvolvido com html, css e javascript </p>
+<h3>Interface</h3>
 
 
 hospedagem do desafio: https://ubiquitous-malasada-ddb319.netlify.app/ <br>
