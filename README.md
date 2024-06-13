@@ -18,18 +18,18 @@
 ![image](https://github.com/jnojair2010/desafio1dnc/assets/19231998/f66f55b9-49a6-4916-9681-9b3a2c439b86)
 
 <h3 dir="auto" >Estrutura do projeto</h3>
-<h4  >Tecnologia utilizada</h4>
-<ul >
-  <li> <img width="50px" hegth="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19231998/339333493-16185d23-5f87-43d4-b391-19e0f35d787d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T110253Z&X-Amz-Expires=300&X-Amz-Signature=13e63514d2a6a09e051b99a35bb1639ad211f1cd918961077bab1581fb243457&X-Amz-SignedHeaders=host&actor_id=19231998&key_id=0&repo_id=813891134" /></li>
-  <li><img width="50px" hegth="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19231998/339333734-2a09bc4f-b86a-4dcd-9a6f-8cedc247fde8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T110415Z&X-Amz-Expires=300&X-Amz-Signature=0cf3b8ac6de7020ffe774f8f7f335b8e5dc7194e534c96e40181e081c5b97477&X-Amz-SignedHeaders=host&actor_id=19231998&key_id=0&repo_id=813891134"/></li>
-  <li> <img width="50px" hegth="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19231998/339335365-6ae89ff6-f2da-49ab-8424-06c6c843761e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T110842Z&X-Amz-Expires=300&X-Amz-Signature=961c63b002411791268a7f145f5dbf556985f67df1a8dfff8dd1e0cc6d2c97e7&X-Amz-SignedHeaders=host&actor_id=19231998&key_id=0&repo_id=813891134" /> </li>
-</ul>
-
-<h4 >Ide de Desenvolvimento</h4>
+  <h4  >Tecnologia utilizada</h4>
+      <ul >
+        <li> <img width="50px" hegth="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19231998/339333493-16185d23-5f87-43d4-b391-19e0f35d787d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T110253Z&X-Amz-Expires=300&X-Amz-      Signature=13e63514d2a6a09e051b99a35bb1639ad211f1cd918961077bab1581fb243457&X-Amz-SignedHeaders=host&actor_id=19231998&key_id=0&repo_id=813891134" /></li>
+        <li><img width="50px" hegth="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19231998/339333734-2a09bc4f-b86a-4dcd-9a6f-8cedc247fde8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T110415Z&X-Amz-Expires=300&X-Amz-Signature=0cf3b8ac6de7020ffe774f8f7f335b8e5dc7194e534c96e40181e081c5b97477&X-Amz-SignedHeaders=host&actor_id=19231998&key_id=0&repo_id=813891134"/></li>
+        <li> <img width="50px" hegth="50px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19231998/339335365-6ae89ff6-f2da-49ab-8424-06c6c843761e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T110842Z&X-Amz-Expires=300&X-Amz-Signature=961c63b002411791268a7f145f5dbf556985f67df1a8dfff8dd1e0cc6d2c97e7&X-Amz-SignedHeaders=host&actor_id=19231998&key_id=0&repo_id=813891134" /> </li>
+      </ul>
+  
+  <h4 >Ide de Desenvolvimento</h4>
 <li><img width="20px" hegth="20px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19231998/339338644-da178413-a700-45c4-8461-c6849eca621c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T112105Z&X-Amz-Expires=300&X-Amz-Signature=99214c4af7b87faa3235c8bbececc68b8ae7c669de62e827d43d533d26c3f66e&X-Amz-SignedHeaders=host&actor_id=19231998&key_id=0&repo_id=813891134" /> VS CODE</li>
 
 
-<h3 dir=""auto>Acesso</h3>
+<h3 dir="auto"o>Acesso</h3>
 hospedagem: https://ubiquitous-malasada-ddb319.netlify.app/ <br>
 github repositorio: https://github.com/jnojair2010/desafio1dnc  <br>
 Planilha: https://dashboard.sheetmonkey.io/edit/aq3A56wCq8unrDadz2QyRQ
