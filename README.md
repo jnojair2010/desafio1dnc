@@ -5,7 +5,7 @@
 <ul>
 <a href="#descricao"> <li>Descrição</li></a>
 <a href="#interface"> <li>Interfaces</li></a>
-<a href="#estrutura do projeto"> <li>Estrutura do projeto</li></a>
+<a href="#estruturadoprojeto"> <li>Estrutura do projeto</li></a>
 <a href="#acesso"> <li>Acesso</li></a>
 </ul>
 
