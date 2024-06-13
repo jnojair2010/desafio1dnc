@@ -29,7 +29,7 @@
 <li><img width="20px" hegth="20px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/19231998/339338644-da178413-a700-45c4-8461-c6849eca621c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T112105Z&X-Amz-Expires=300&X-Amz-Signature=99214c4af7b87faa3235c8bbececc68b8ae7c669de62e827d43d533d26c3f66e&X-Amz-SignedHeaders=host&actor_id=19231998&key_id=0&repo_id=813891134" /> VS CODE</li>
 
 
-
-hospedagem do desafio: https://ubiquitous-malasada-ddb319.netlify.app/ <br>
-git hu repositorio: https://github.com/jnojair2010/desafio1dnc  <br>
-https://dashboard.sheetmonkey.io/edit/aq3A56wCq8unrDadz2QyRQ
+<h3>Acesso</h3>
+hospedagem: https://ubiquitous-malasada-ddb319.netlify.app/ <br>
+github repositorio: https://github.com/jnojair2010/desafio1dnc  <br>
+Planilha: https://dashboard.sheetmonkey.io/edit/aq3A56wCq8unrDadz2QyRQ
